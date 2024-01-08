@@ -1,4 +1,4 @@
-# -js-pwdgen-wannabe
+# js-pwdgen-wannabe
 
 Chiedi all'utente il suo nome,
 poi chiedi il suo cognome,
